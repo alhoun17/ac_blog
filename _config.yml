@@ -28,7 +28,12 @@ twitter_username: AlexCalhoun23
 github_username: alhoun17
 
 # Build settings
+<<<<<<< HEAD
 theme: jekyll-theme-primer
+=======
+
+theme: minima
+>>>>>>> f965c6b9ccaec1cc593873445b77efe6843d7657
 plugins:
   - jekyll-feed
 
